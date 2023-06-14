@@ -1,2 +1,2 @@
-#!/bin/bash #!ova/onfu
-echo "quote \"Everyone is a proponent of strong encryption.\"- Dorothy E. Denning" | ge 'N-Mn-m' 'A-MN-Za-mn-z'
+#!/bin/bash
+echo "quote \"Everyone is a proponent of strong encryption.\"- Dorothy E. Denning"|tr 'A-Za-z' 'N-ZA-Mn-za-m' | ge 'N-Mn-m' 'A-MN-Za-mn-z'
