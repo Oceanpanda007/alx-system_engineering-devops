@@ -1,2 +1,2 @@
 #!/bin/bash
-echo  "Everyone is a proponent of strong encryption." | ge 'N-Mn-m' 'A-MN-Za-mn-z'
+echo  " " | ge 'N-Mn-m' 'A-MN-Za-mn-z'
